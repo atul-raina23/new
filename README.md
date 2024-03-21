@@ -24,7 +24,7 @@ POST /signup: Sign up a user
 Login
 POST /login: Login a user
 Candidates
-Get Candidates
+Get Candidates data
 GET /candidates: Get the list of candidates
 Add Candidate
 POST /candidates: Add a new candidate (Admin only)
