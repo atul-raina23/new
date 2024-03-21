@@ -14,8 +14,8 @@ MongoDB
 JSON Web Tokens (JWT) for authentication
 Installation
 Clone the repository:
+https://github.com/atul-raina23/new
 
-git clone https://github.com/Prince-1501/voting_app.git
 
 API Endpoints
 Authentication
